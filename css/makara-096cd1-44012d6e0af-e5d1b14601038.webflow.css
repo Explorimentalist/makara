@@ -580,6 +580,7 @@ a {
 
 .heading-5.first-item {
   margin-top: 0px;
+  font-family: Inter, sans-serif;
 }
 
 .heading-3 {
@@ -855,6 +856,7 @@ a {
 }
 
 .label.semibold {
+  font-family: Inter, sans-serif;
   font-weight: 600;
 }
 
@@ -1606,10 +1608,12 @@ a {
     font-size: 34px;
     line-height: 44px;
   }
+
   h3 {
     font-size: 20px;
     line-height: 32px;
   }
+
   .section.center {
     height: auto;
     padding-top: 10vh;
@@ -1620,23 +1624,29 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
   .section.center.black {
     padding-bottom: 4vh;
   }
+
   .section.center.home {
     background-position: 95% 100%;
   }
+
   .section.wide {
     padding-top: 10vh;
     padding-bottom: 10vh;
   }
+
   .section.wide.product {
     padding-top: 5vh;
     padding-bottom: 5vh;
   }
+
   .section.wide.product.sky {
     background-position: 100% 50%;
   }
+
   .section.wide.recipe {
     background-image: none;
     background-position: 0px 0px;
@@ -1644,27 +1654,32 @@ a {
     background-repeat: repeat;
     background-attachment: scroll;
   }
+
   .hero {
     padding-right: 0vw;
     padding-left: 0vw;
     font-size: 24px;
   }
+
   .feature-content {
     width: 100vw;
     max-width: 100%;
     padding-right: 10vw;
     padding-left: 10vw;
   }
+
   .wrap.offering {
     height: auto;
     max-width: 100%;
     margin-bottom: 24px;
   }
+
   .wrap.offering.khaki {
     height: auto;
     max-width: 100%;
     padding-bottom: 80px;
   }
+
   .wrap.offering.sky {
     max-width: 100%;
     margin-bottom: 24px;
@@ -1673,65 +1688,79 @@ a {
     -ms-flex: 0 auto;
     flex: 0 auto;
   }
+
   .wrap.offering.plankton.last-item {
     margin-bottom: 0px;
   }
+
   .wrap.flex {
     -webkit-box-align: start;
     -webkit-align-items: flex-start;
     -ms-flex-align: start;
     align-items: flex-start;
   }
+
   .hero-content {
     padding-right: 10vw;
     padding-left: 10vw;
   }
+
   .feature-wrap {
     margin-top: 5vh;
     margin-bottom: 5vh;
     padding-right: 0vw;
     padding-left: 0vw;
   }
+
   .black {
     text-align: left;
   }
+
   .heading-2 {
     width: 100%;
     font-size: 36px;
     line-height: 36px;
   }
+
   .heading-2.first-item {
     margin-top: 0px;
     font-size: 32px;
     line-height: 42px;
   }
+
   .heading-1 {
     font-size: 56px;
     line-height: 74px;
   }
+
   .heading-1.crosselling {
     margin-top: 0px;
     margin-bottom: 20px;
     font-size: 28px;
     line-height: 36px;
   }
+
   .body-copy.hero-content {
     width: 100vw;
     max-width: 100vw;
     margin-bottom: 42px;
   }
+
   .body-copy.workshopintro {
     display: none;
     width: 100%;
     margin-top: 0px;
     margin-bottom: 0px;
   }
+
   .body-copy.last-item {
     margin-bottom: 0px;
   }
+
   .heading-5 {
     text-align: left;
   }
+
   .offer_div {
     display: -webkit-box;
     display: -webkit-flex;
@@ -1746,42 +1775,52 @@ a {
     -ms-flex-align: stretch;
     align-items: stretch;
   }
+
   .primarybutton {
     padding-right: 32px;
     padding-left: 32px;
   }
+
   .producthero {
     width: 100%;
     max-width: 100%;
     padding-right: 0px;
   }
+
   .social_wrap {
     -webkit-box-align: start;
     -webkit-align-items: flex-start;
     -ms-flex-align: start;
     align-items: flex-start;
   }
+
   .social-link {
     cursor: pointer;
   }
+
   .body-quote {
     text-align: left;
   }
+
   .body-quote.padded {
     margin-bottom: 24px;
   }
+
   .secondarybutton {
     width: 100%;
     text-transform: none;
   }
+
   .secondarybutton.product-hero-button {
     width: auto;
   }
+
   .split {
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
   }
+
   ._3-modules {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -1793,77 +1832,98 @@ a {
     -ms-flex-pack: justify;
     justify-content: space-between;
   }
+
   .modulecontainer {
     width: 48%;
   }
+
   .split-module.wide-left {
     padding: 36px 24px 36px 10%;
   }
+
   .split-module.wide-left.sky {
     padding-right: 36px;
   }
+
   .split-module.wide-right {
     padding: 36px 10% 36px 24px;
   }
+
   .split-module.wide-right.peach {
     padding-top: 36px;
     padding-left: 36px;
   }
+
   .crosselling-module.left {
     padding-top: 32px;
     padding-bottom: 32px;
   }
+
   .crosselling-module.right {
     padding: 32px 24px;
   }
+
   .crosselingsection.wide {
     padding-top: 8vh;
     padding-bottom: 8vh;
   }
+
   .workshop-module-image {
     max-width: 30%;
   }
+
   .workshop-module {
     margin-right: 16px;
   }
+
   .accordion-item-content {
     padding-right: 10%;
     padding-left: 10%;
   }
+
   .facilitator-image {
     margin-right: 24px;
   }
+
   .workshop-details {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
   }
+
   .down-chevron {
     width: 50px;
   }
+
   .div-block-17 {
     width: auto;
     height: auto;
   }
+
   .principles {
     max-height: none;
     max-width: 50%;
   }
+
   .recipe-hero-div {
     text-align: center;
   }
+
   .recipe-copy {
     width: 80%;
     max-width: 80%;
   }
+
   .list-3 {
     margin-left: 20px;
   }
+
   .footer-2 {
     padding-right: 20px;
     padding-left: 20px;
   }
+
   .div-block-18 {
     position: static;
     left: 0%;
@@ -1874,30 +1934,37 @@ a {
     width: 50%;
     padding-left: 0px;
   }
+
   ._3-product-modules {
     width: 45%;
     margin-bottom: 40px;
     text-align: left;
   }
+
   ._3-product-modules.last-item {
     margin-bottom: 0px;
   }
+
   .home-product-image {
     width: 80%;
     text-align: left;
   }
+
   .recipe {
     max-width: none;
     margin-right: auto;
     margin-left: auto;
   }
+
   .hero-image {
     display: none;
   }
+
   .home-hero-image {
     width: 40%;
     max-width: 100%;
   }
+
   .home-hero-text-image {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -1909,6 +1976,7 @@ a {
     flex-wrap: wrap-reverse;
     text-align: left;
   }
+
   .div-block-19 {
     -webkit-box-ordinal-group: 1;
     -webkit-order: 0;
@@ -1922,28 +1990,34 @@ a {
     font-size: 28px;
     line-height: 38px;
   }
+
   .section.center {
     padding-bottom: 0vh;
   }
+
   .section.wide.product {
     height: 70vh;
     padding-top: 0vh;
     padding-bottom: 0vh;
   }
+
   .section.wide.recipe {
     background-position: 50% 180%;
     background-size: 800px;
   }
+
   .section.about {
     padding-right: 10vw;
     padding-left: 10vw;
   }
+
   .feature-content {
     width: auto;
     max-width: 100%;
     padding-right: 0vw;
     padding-left: 0vw;
   }
+
   .wrap {
     display: -webkit-box;
     display: -webkit-flex;
@@ -1970,6 +2044,7 @@ a {
     -ms-flex-align: start;
     align-items: flex-start;
   }
+
   .wrap.offering {
     height: auto;
     margin-bottom: 24px;
@@ -1984,6 +2059,7 @@ a {
     align-items: flex-start;
     border-radius: 2px;
   }
+
   .wrap.offering.khaki {
     height: auto;
     padding: 40px;
@@ -1993,17 +2069,20 @@ a {
     align-items: flex-start;
     border-radius: 2px;
   }
+
   .wrap.pricing {
     -webkit-box-align: center;
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
   }
+
   .hero-content {
     margin-bottom: 5vh;
     padding-right: 10vw;
     padding-left: 10vw;
   }
+
   .feature-wrap {
     width: auto;
     -webkit-box-orient: horizontal;
@@ -2012,26 +2091,32 @@ a {
     -ms-flex-direction: row;
     flex-direction: row;
   }
+
   .black {
     text-align: left;
   }
+
   .black.heading-5 {
     text-align: left;
   }
+
   .heading-2 {
     width: 100%;
     margin-bottom: 24px;
     line-height: 42px;
     text-align: left;
   }
+
   .footer-link {
     display: inline-block;
     margin-bottom: 10px;
   }
+
   .footer-list {
     padding-top: 16px;
     padding-bottom: 16px;
   }
+
   .heading-1 {
     position: static;
     margin-bottom: 20px;
@@ -2039,53 +2124,68 @@ a {
     line-height: 56px;
     text-align: left;
   }
+
   .heading-1.crosselling {
     font-size: 28px;
     line-height: 36px;
   }
+
   .body-copy.hero-content {
     width: 80vw;
   }
+
   .body-copy.workshopintro {
     display: none;
   }
+
   .heading-5.black.modal {
     font-size: 42px;
   }
+
   .heading-3.workshop {
     margin-top: 0px;
     margin-bottom: 0px;
     padding-top: 0px;
   }
+
   .heading-container.centered {
     width: 100%;
   }
+
   .primarybutton {
     width: 100%;
   }
+
   .modal_container {
     width: 400px;
   }
+
   .form_field {
     margin-bottom: 16px;
   }
+
   .text-block-3 {
     margin-bottom: 16px;
     line-height: 24px;
   }
+
   .label.semibold {
     display: block;
     overflow: visible;
   }
+
   .label.semibold.workshop {
     display: none;
   }
+
   .social {
     width: 100%;
   }
+
   .body-quote {
     text-align: left;
   }
+
   .split {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -2100,27 +2200,33 @@ a {
     -ms-flex-order: 0;
     order: 0;
   }
+
   .split_illustration.left {
     padding-right: 0px;
   }
+
   .splittext {
     width: 100%;
     max-width: none;
   }
+
   .split-module.wide-left.sky {
     width: 100%;
     padding-right: 10%;
     text-align: center;
   }
+
   .split-module.wide-right.peach {
     width: 100%;
     padding-left: 10%;
     text-align: center;
   }
+
   .split-module-illustration {
     width: 70%;
     text-align: left;
   }
+
   .crosselling-module.left {
     width: 100%;
     margin-right: 0px;
@@ -2128,33 +2234,40 @@ a {
     padding-right: 32px;
     padding-left: 32px;
   }
+
   .crosselling-module.right {
     width: 100%;
     margin-left: 0px;
     padding-right: 32px;
     padding-left: 32px;
   }
+
   .workshopintro {
     width: 100%;
     max-width: 100%;
     margin-right: auto;
   }
+
   .accordion-wrapper {
     width: 100%;
     padding: 16px;
   }
+
   .workshop-module-image {
     display: none;
   }
+
   .workshop-module {
     margin-right: 16px;
     margin-left: 0px;
   }
+
   .accordion-item-content {
     padding-top: 0px;
     padding-right: 0%;
     padding-left: 0%;
   }
+
   .workshop-facilitator {
     padding-top: 24px;
     -webkit-box-orient: vertical;
@@ -2163,16 +2276,20 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
   .facilitator-image {
     max-width: 100px;
     margin-bottom: 20px;
   }
+
   .detail {
     font-size: 24px;
   }
+
   .principles {
     margin-top: 32px;
   }
+
   .recipe-hero {
     display: -webkit-box;
     display: -webkit-flex;
@@ -2199,37 +2316,46 @@ a {
     -ms-flex-align: start;
     align-items: flex-start;
   }
+
   .recipe-items-container {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
   }
+
   .ingredients {
     width: 100%;
     margin-right: 0px;
   }
+
   .recipe-copy {
     width: 100%;
     max-width: 100%;
   }
+
   .list-3 {
     margin-left: 0px;
   }
+
   .recipe-instructions {
     margin-left: 20px;
   }
+
   .footer-2 {
     padding: 40px 20px;
   }
+
   .footer-image {
     -o-object-fit: contain;
     object-fit: contain;
   }
+
   .div-block-18 {
     width: 100%;
     padding-left: 0px;
     text-align: center;
   }
+
   .home-hero-image {
     width: 50%;
   }
@@ -2240,47 +2366,59 @@ a {
     font-size: 60px;
     line-height: 70px;
   }
+
   h3 {
     font-size: 16px;
   }
+
   .section.center {
     padding-bottom: 0vh;
   }
+
   .section.wide {
     padding-top: 6vh;
     padding-bottom: 6vh;
   }
+
   .section.wide.product {
     height: 60vh;
     max-height: none;
   }
+
   .section.wide.product.sky {
     height: 70vh;
     padding-top: 5vh;
     background-position: 50% 50%;
   }
+
   .section.wide.product.khaki {
     height: 70vh;
   }
+
   .section.wide.product.plankton {
     height: 70vh;
     max-height: none;
   }
+
   .section.wide.recipe {
     background-position: 50% 375%;
     background-size: 600px;
   }
+
   .section.about.pink {
     padding-right: 5vw;
     padding-left: 5vw;
   }
+
   .hero {
     padding-right: 0vw;
     padding-left: 0vw;
   }
+
   .feature-content {
     width: auto;
   }
+
   .wrap {
     max-width: 90%;
     padding-right: 0vw;
@@ -2291,6 +2429,7 @@ a {
     -ms-flex-pack: center;
     justify-content: center;
   }
+
   .wrap.offering {
     height: auto;
     margin-bottom: 24px;
@@ -2307,16 +2446,19 @@ a {
     -ms-flex: 0 auto;
     flex: 0 auto;
   }
+
   .wrap.offering.khaki {
     height: auto;
     padding: 24px 16px;
   }
+
   .wrap.footer {
     -webkit-box-align: center;
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
   }
+
   .wrap.pricing {
     max-width: 100%;
     -webkit-box-align: center;
@@ -2324,6 +2466,7 @@ a {
     -ms-flex-align: center;
     align-items: center;
   }
+
   .wrap.flex {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -2331,6 +2474,7 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
   .feature-wrap {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -2338,6 +2482,7 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
   .feature-wrap.reverse {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -2345,58 +2490,71 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
   .feature-image {
     width: auto;
     margin-top: 30px;
     margin-bottom: 30px;
   }
+
   .black.heading-5 {
     text-align: left;
   }
+
   .heading-2 {
     width: 100%;
     max-width: 100%;
     margin-bottom: 16px;
     line-height: 42px;
   }
+
   .heading-1 {
     margin-bottom: 24px;
     font-size: 48px;
     line-height: 56px;
   }
+
   .heading-1.crosselling {
     font-size: 28px;
     line-height: 36px;
   }
+
   .body-copy {
     display: block;
   }
+
   .body-copy.workshopintro {
     display: none;
   }
+
   .heading-5 {
     margin-bottom: 24px;
     font-size: 24px;
     line-height: 32px;
   }
+
   .heading-5.black.modal {
     font-size: 32px;
   }
+
   .heading-3 {
     font-size: 28px;
     line-height: 32px;
   }
+
   .heading-3.light {
     margin-bottom: 36px;
     font-size: 24px;
     line-height: 40px;
   }
+
   .heading-3.workshop {
     margin-top: 0px;
     margin-bottom: 0px;
     font-size: 24px;
     line-height: 28px;
   }
+
   .offer_div {
     display: block;
     margin-bottom: 20px;
@@ -2409,12 +2567,15 @@ a {
     -ms-flex-align: stretch;
     align-items: stretch;
   }
+
   .heading-container {
     padding-left: 20px;
   }
+
   .heading-container.centered {
     padding-left: 0px;
   }
+
   .primarybutton {
     width: 100%;
     padding-top: 12px;
@@ -2422,105 +2583,132 @@ a {
     padding-left: 24px;
     text-align: center;
   }
+
   .primarybutton.form {
     padding-left: 36px;
   }
+
   .producthero {
     padding-right: 0%;
     padding-left: 0%;
     text-align: left;
   }
+
   .modal-bg {
     overflow: visible;
   }
+
   .modal_container {
     width: 300px;
     padding-top: 20px;
     padding-right: 20px;
     padding-left: 20px;
   }
+
   .form_field {
     margin-bottom: 16px;
   }
+
   .text-block-3 {
     margin-bottom: 12px;
     line-height: 24px;
   }
+
   .error-message {
     border-radius: 8px;
   }
+
   .label.semibold.workshop {
     display: none;
   }
+
   .social {
     width: auto;
     font-size: 16px;
     line-height: 26.4px;
   }
+
   .body-quote {
     margin-bottom: 16px;
     font-size: 16px;
     line-height: 26.4px;
   }
+
   .secondarybutton {
     width: 100%;
     padding-right: 24px;
     padding-left: 24px;
   }
+
   .secondarybutton.product-hero-button {
     width: 100%;
     margin-top: auto;
   }
+
   .split {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
   }
+
   .split_illustration {
     width: 100%;
   }
+
   .split_illustration.left {
     padding-right: 0px;
   }
+
   .split_illustration.right {
     padding-left: 0px;
   }
+
   .splittext {
     width: 100%;
     max-width: none;
   }
+
   ._3-modules {
     text-align: left;
   }
+
   .modulecontainer {
     width: 100%;
     text-align: left;
   }
+
   .crosselling-module.left {
     padding: 24px;
     border: 1px solid #000;
   }
+
   .crosselling-module.right {
     padding: 24px;
   }
+
   .price-module {
     padding: 32px;
   }
+
   .workshops {
     padding-top: 4vh;
     padding-bottom: 4vh;
   }
+
   .workshopintro {
     width: 100%;
     margin-bottom: 24px;
   }
+
   .workshop-module {
     margin-left: 0px;
   }
+
   .accordion-item-content {
     padding-right: 0%;
     padding-left: 0%;
   }
+
   .workshop-facilitator {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -2528,24 +2716,30 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
   .facilitator-image {
     margin-bottom: 18px;
   }
+
   .detail {
     font-size: 24px;
     line-height: 32px;
   }
+
   .profile-pic {
     width: auto;
     text-align: left;
   }
+
   .crosselling-image {
     max-width: 80%;
   }
+
   .principles {
     max-width: 100%;
     margin-top: auto;
   }
+
   .recipe-hero {
     max-width: 90%;
     padding-right: 0vw;
@@ -2556,22 +2750,27 @@ a {
     -ms-flex-pack: center;
     justify-content: center;
   }
+
   .list-3 {
     margin-left: 0px;
   }
+
   .link {
     padding-right: 0px;
   }
+
   .link.product-hero {
     width: 100%;
     max-width: 100%;
     text-align: left;
   }
+
   .footer-2 {
     padding-right: 20px;
     padding-left: 20px;
     text-align: left;
   }
+
   .footer-flex-container {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -2579,20 +2778,25 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
   }
+
   .footer-logo-link {
     height: 60px;
   }
+
   .footer-heading {
     margin-top: 20px;
   }
+
   ._3-product-modules {
     width: 100%;
     margin-bottom: 24px;
     text-align: center;
   }
+
   .recipe {
     width: 100%;
   }
+
   .home-hero-image {
     width: 100%;
   }
