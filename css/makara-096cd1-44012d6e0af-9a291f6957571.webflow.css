@@ -1271,7 +1271,7 @@ a {
 .recipe-list {
   margin-bottom: 16px;
   padding-left: 0px;
-  list-style-type: none;
+  list-style-type: disc;
 }
 
 .recipe-item {
